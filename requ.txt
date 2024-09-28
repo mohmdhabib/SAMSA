@@ -1,0 +1,9 @@
+Flask
+transformers
+numpy
+streamlit
+requests
+flask-cors
+langchain
+langchain_ollama
+tiktoken
