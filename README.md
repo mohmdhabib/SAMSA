@@ -1,4 +1,4 @@
-##Samsa Sentiment Analysis App
+#Samsa Sentiment Analysis App
 Real-time sentiment analysis powered by Hugging Face Transformers and Streamlit.
 
 #Overview
